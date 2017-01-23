@@ -1,4 +1,5 @@
-﻿#Git spurningar og svör
+﻿git log
+#Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 
 	cd stendur fyrir "change directory", til að nota cd gætiru skrifað t.d. "cd (NAFN MÖPPU)" til að fara inn í þá möppu
@@ -8,6 +9,22 @@
 	mkdir stendur fyrir "Make Directory" og býr til möppur (directory)
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone afritar geymslu yfir í nýja möppu (directory)
+	git log sýnir "commit" færslur
+	git status sýnir stöðu skránna sem þú ert að vinna í
+	git diff sýnir munin á milli "commits"
+	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
+
+12. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone afritar geymslu yfir í nýja möppu (directory)
+	git log sýnir "commit" færslur
+	git status sýnir stöðu skránna sem þú ert að vinna í
+	git diff sýnir munin á milli "commits"
+	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
+
+12. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 
 	git clone afritar geymslu yfir í nýja möppu (directory)
 	git log sýnir "commit" færslur
