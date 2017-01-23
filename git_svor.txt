@@ -4,5 +4,14 @@
 	cd stendur fyrir "change directory", til að nota cd gætiru skrifað t.d. "cd (NAFN MÖPPU)" til að fara inn í þá möppu
 	cd ~ færir þig yfir á heimasvæði notanda
 	ls sýnir allar skrár og möppur í þeirri möppu sem þú ert
-	pwd skrifar út slóð möppunnar sem þú ert í. Stendur fyrir "Pring Working Directory)
+	pwd skrifar út slóð möppunnar sem þú ert í. Stendur fyrir "Print Working Directory)
 	mkdir stendur fyrir "Make Directory" og býr til möppur (directory)
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone afritar geymslu yfir í nýja möppu (directory)
+	git log sýnir "commit" færslur
+	git status sýnir stöðu skránna sem þú ert að vinna í
+	git diff sýnir munin á milli "commits"
+	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
+
