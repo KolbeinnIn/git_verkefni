@@ -39,3 +39,5 @@
 	Staging area er satðurinn sem þú gerir breytingar áður en þú committar þær.
 	Repository er geymsla fyrir commits og link í commits sem heita heads.
 
+8. Hvenær er sniðugt að nota greinar (branches)?
+	Sniðugt getur verið að nota greinar þegar þú þarft að flokka hluti.
