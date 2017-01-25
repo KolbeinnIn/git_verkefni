@@ -41,3 +41,9 @@
 
 8. Hvenær er sniðugt að nota greinar (branches)?
 	Sniðugt getur verið að nota greinar þegar þú þarft að flokka hluti.
+
+9. Hver fann upp git?
+	Linus Torvalds fann upp git.
+
+10. Hvar er git helst notað?
+	Fyrirtæki nota git mikið. Nemendur nota git einnig í verkefnum eins og þessum.
