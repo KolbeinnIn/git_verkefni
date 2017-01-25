@@ -16,19 +16,3 @@
 	git diff sýnir munin á milli "commits"
 	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
 
-12. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-
-	git clone afritar geymslu yfir í nýja möppu (directory)
-	git log sýnir "commit" færslur
-	git status sýnir stöðu skránna sem þú ert að vinna í
-	git diff sýnir munin á milli "commits"
-	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
-
-12. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-
-	git clone afritar geymslu yfir í nýja möppu (directory)
-	git log sýnir "commit" færslur
-	git status sýnir stöðu skránna sem þú ert að vinna í
-	git diff sýnir munin á milli "commits"
-	git checkout bæta inn því sem þú ert búinn að committa sem nýja grein yfir á masterinn.
-
