@@ -1,5 +1,5 @@
-﻿git log
-#Git spurningar og svör
+﻿#Git verkefni í forritun
+
 1. Hvað gera eftirfarandi Linux skipanir?
 
 	cd stendur fyrir "change directory", til að nota cd gætiru skrifað t.d.
@@ -26,3 +26,8 @@
 4. Hvað er útgáfustýring (e. version control)?
 	útgáfustýring er stýring af hvaða útgáfum er hægt a sjá og hvaða útgáfu þú vilt
 	nota.
+
+5. Hverjir eru helstu kostir við að nota git?
+	Það er mjög einfalt að læra að nota git, rauntímabreytingin sem er gerð.
+	Mjög margir geta verið að vinna að sama verkefninu.
+
