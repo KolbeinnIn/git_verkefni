@@ -23,4 +23,6 @@
 	b) git diff --staged:	ber saman commits á uppsetningarsvæðinu
 	c) git diff commit1 commit2: ber saman tvö "commits"
 
-
+4. Hvað er útgáfustýring (e. version control)?
+	útgáfustýring er stýring af hvaða útgáfum er hægt a sjá og hvaða útgáfu þú vilt
+	nota.
