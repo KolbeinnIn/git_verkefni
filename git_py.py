@@ -10,3 +10,8 @@ print(tala1,"+",tala2,"=",summa)
 print(tala1,"*",tala2,"=",margf)
 
 
+#Dæmi 2:
+fNafn = input("Fornafn? ")
+eNafn = input("Eftirnafn? ")
+print("Halló",fNafn,eNafn)
+
