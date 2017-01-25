@@ -31,3 +31,7 @@
 	Það er mjög einfalt að læra að nota git, rauntímabreytingin sem er gerð.
 	Mjög margir geta verið að vinna að sama verkefninu.
 
+6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Mér finnst eigi að committa eftir hverja breytingu sem er ágætlega stór.
+
+
